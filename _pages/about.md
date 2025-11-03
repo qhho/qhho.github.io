@@ -11,9 +11,9 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD Candidate in Autonomous Systems at the University of Colorado Boulder, advised by Prof. Zachary Sunberg and Prof. Morteza Lahijanian. My goal is to enable safety-critical autonomous partially observable cyber-physical systems under uncertainty to complete complex temporal tasks while providing explicit guarantees on their safety and operational properties. Recently, my focus has been on developing theoretically sound and practically efficient algorithms for decision-making under uncertainty in safety-critical robotics and autonomous systems. This often involves combining techniques from formal methods (temporal logics, hybrid systems), probabilistic modeling and planning (MDPs, POMDPs, Stochastic Games), and reinforcement learning. My research finds applications in diverse areas such as self-driving cars, uncrewed aerial vehicles, space robotic systems, underwater vehicles, smart grids, and operations research.
+I am a PhD Candidate in Autonomous Systems at the University of Colorado Boulder, advised by Prof. Zachary Sunberg and Prof. Morteza Lahijanian. My goal is to enable safety-critical autonomous cyber-physical systems to complete complex temporal tasks while providing explicit guarantees on their safety and operational properties. Recently, my focus has been on developing theoretically sound and practically efficient algorithms for decision-making under uncertainty. This often involves combining techniques from formal methods (temporal logics, hybrid systems), probabilistic modeling and planning (MDPs, POMDPs, Stochastic Games), and reinforcement learning. My research finds applications in diverse areas such as self-driving cars, uncrewed aerial vehicles, space robotic systems, underwater vehicles, smart grids, and operations research.
 
-<div style="color: #1976D2; font-size: 1em; line-height: 1.5; margin-bottom: 20px;">
+<div style="color: #660000; font-size: 1em; line-height: 1.5; margin-bottom: 20px;">
     <p style="margin-bottom: 0;">
         I'm joining the <strong>Virginia Tech Aerospace and Ocean Engineering Department</strong> as a <strong>tenure-track Assistant Professor</strong> in Spring 2026!
     </p>
@@ -29,7 +29,7 @@ I am a PhD Candidate in Autonomous Systems at the University of Colorado Boulder
 
 ## Education
 
-* Ph.D in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2025 (expected)
+* Ph.D in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2025
 * M.S. in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2023
 * B.S. in Mechanical Engineering, National University of Singapore, 2019
 
