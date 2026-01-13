@@ -11,15 +11,15 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD Candidate in Autonomous Systems at the University of Colorado Boulder, advised by Prof. Zachary Sunberg and Prof. Morteza Lahijanian. My goal is to enable safety-critical autonomous cyber-physical systems to complete complex temporal tasks while providing explicit guarantees on their safety and operational properties. Recently, my focus has been on developing theoretically sound and practically efficient algorithms for decision-making under uncertainty. This often involves combining techniques from formal methods (temporal logics, hybrid systems), probabilistic modeling and planning (MDPs, POMDPs, Stochastic Games), and reinforcement learning. My research finds applications in diverse areas such as self-driving cars, uncrewed aerial vehicles, space robotic systems, underwater vehicles, smart grids, and operations research.
+I am an Assistant Professor in the **Aerospace and Ocean Engineering Department** at **Virginia Tech**.
 
-<div style="color: #660000; font-size: 1em; line-height: 1.5; margin-bottom: 20px;">
-    <p style="margin-bottom: 0;">
-        I'm joining the <strong>Virginia Tech Aerospace and Ocean Engineering Department</strong> as a <strong>tenure-track Assistant Professor</strong> in Spring 2026!
-    </p>
-    <p style="margin-top: 5px;">
-        I'm actively hiring highly motivated <strong>Ph.D. students</strong> to pursue cutting-edge research in <strong>decision-making under uncertainty for autonomous systems</strong>. If you're interested in joining my lab, please contact me at: <strong>qihengho [at] vt.edu</strong>.
-        <br>
+I received my Ph.D. in Autonomous Systems from the University of Colorado Boulder, where I was advised by Prof. Zachary Sunberg and Prof. Morteza Lahijanian.
+
+My goal is to enable autonomous systems to complete tasks while providing guarantees on their safety and operational properties. Recently, my focus has been on developing theoretically sound and practically efficient algorithms for decision-making under uncertainty. This often involves combining techniques from formal methods (temporal logics, hybrid systems), probabilistic modeling and planning (MDPs, POMDPs, Stochastic Games), and reinforcement learning. My research finds applications in diverse areas including self-driving cars, uncrewed aerial vehicles, spacecraft and space robots, underwater vehicles, smart grids, and operations.
+
+<div style="color: #861F41; font-size: 1em; line-height: 1.5; margin-bottom: 20px; border: 1px solid #861F41; padding: 15px; border-radius: 5px;">
+    <p style="margin: 0;">
+        <strong>📢 Opportunities:</strong> I am actively hiring highly motivated <strong>Ph.D. students</strong> to pursue cutting-edge research in <strong>decision-making under uncertainty for autonomous systems</strong>. If you are interested in joining my lab, please contact me at: <strong>qihengho [at] vt.edu</strong>.
     </p>
 </div>
 
@@ -33,7 +33,10 @@ I am a PhD Candidate in Autonomous Systems at the University of Colorado Boulder
 * M.S. in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2023
 * B.S. in Mechanical Engineering, National University of Singapore, 2019
 
-## Work experience
+## Appointments
+
+* 2026-Present: Assistant Professor
+  * Virginia Tech, Aerospace and Ocean Engineering
 
 * 2024-2025: Visiting Student Researcher
   * NASA Jet Propulsion Laboratory
@@ -50,14 +53,16 @@ I am a PhD Candidate in Autonomous Systems at the University of Colorado Boulder
 
 <h2>Research: Assured Autonomous Systems</h2>
 
-My research focuses on designing **Assured Autonomous Systems** that operate safely and reliably with uncertainty, partial observability, and incomplete information. I am broadly interested in the theoretical analysis, designing efficient algorithms and practical techniques for:
+My research focuses on designing **Assured Autonomous Systems** that operate safely and reliably under uncertainty, partial observability, and incomplete information. I am broadly interested in theoretical analysis, designing efficient algorithms, practical techniques for:
 
 - Decision-making under uncertainty (MDPs, POMDPs, Games)
-- Motion planning under uncertainty
-- Temporally extended tasks (Temporal Logic specifications, Non-Markovian objectives, long horizon sparse reward problems)
+- Constrained and risk-aware planning
 - Formal synthesis and verification
+- Reinforcement learning for partially observable systems
+- Data-driven models in planning
 - Multi-layered autonomoous system architectures
-- Data-driven models for planning, reinforcement Learning for POMDPs
+- Integrated Task and Motion planning under uncertainty
+- Temporally extended tasks (Temporal Logic specifications, Non-Markovian objectives, long horizon sparse reward problems)
 - Applications in robotics and space systems
 
 <br>
