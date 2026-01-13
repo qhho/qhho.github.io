@@ -52,3 +52,9 @@ html[data-theme="dark"] {
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
 }
+
+/* VT Opportunities in dark theme */
+.vt-opportunities {
+  color: mix(#fff, #861F41, 50%);
+  border-color: mix(#fff, #861F41, 50%);
+}

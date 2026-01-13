@@ -17,8 +17,8 @@ I received my Ph.D. in Autonomous Systems from the University of Colorado Boulde
 
 My goal is to enable autonomous systems to complete tasks while providing guarantees on their safety and operational properties. Recently, my focus has been on developing theoretically sound and practically efficient algorithms for decision-making under uncertainty. This often involves combining techniques from formal methods (temporal logics, hybrid systems), probabilistic modeling and planning (MDPs, POMDPs, Stochastic Games), and reinforcement learning. My research finds applications in diverse areas including self-driving cars, uncrewed aerial vehicles, spacecraft and space robots, underwater vehicles, smart grids, and operations.
 
-<div style="color: #861F41; font-size: 1em; line-height: 1.5; margin-bottom: 20px; border: 1px solid #861F41; padding: 15px; border-radius: 5px;">
-    <p style="margin: 0;">
+<div class="vt-opportunities">
+    <p>
         <strong>📢 Opportunities:</strong> I am actively hiring highly motivated <strong>Ph.D. students</strong> to pursue cutting-edge research in <strong>decision-making under uncertainty for autonomous systems</strong>. If you are interested in joining my lab, please contact me at: <strong>qihengho [at] vt.edu</strong>.
     </p>
 </div>

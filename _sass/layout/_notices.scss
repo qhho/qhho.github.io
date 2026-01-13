@@ -98,3 +98,19 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+/* VT Opportunities notice */
+
+.vt-opportunities {
+  color: #861F41;
+  border: 1px solid #861F41;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  font-size: 1em;
+  line-height: 1.5;
+
+  p {
+    margin: 0;
+  }
+}
