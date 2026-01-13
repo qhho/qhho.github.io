@@ -25,11 +25,11 @@ author:
   avatar           : "qiheng_ho.jpg"
   name             : "Qi Heng Ho"
   pronouns         : # example: "she/her"  
-  bio              : "Autonomous Systems & AI Researcher. Incoming Assistant Professor at Virginia Tech."
+  bio              : "Autonomous Systems & AI Researcher. Assistant Professor at Virginia Tech."
   # location         : "Earth"
-  employer       : "University of Colorado Boulder"
+  employer       : "Virginia Tech"
   uri              : # URL
-  email            : "qi.ho@colorado.edu" 
+  email            : "qihengho@vt.edu" 
 
   # Academic websites
   academia         : # URL

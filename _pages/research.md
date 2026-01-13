@@ -7,6 +7,22 @@ author_profile: true
 
 Under Construction. Stay tuned!
 
+<h2>Research: Assured Autonomous Systems</h2>
+
+My research focuses on designing **Assured Autonomous Systems** that operate safely and reliably under uncertainty, partial observability, and incomplete information. I am broadly interested in theoretical analysis, designing efficient algorithms, practical techniques for:
+
+- Decision-making under uncertainty (MDPs, POMDPs, Games)
+- Constrained and risk-aware planning
+- Formal synthesis and verification
+- Reinforcement learning for partially observable systems
+- Data-driven models in planning
+- Multi-layered autonomoous system architectures
+- Integrated Task and Motion planning under uncertainty
+- Temporally extended tasks (Temporal Logic specifications, Non-Markovian objectives, long horizon sparse reward problems)
+- Applications in robotics and space systems
+
+<br>
+
 <!-- ## Research Interests: Assured Autonomous Systems
 
 My research focuses on designing **Assured Autonomous Systems** that operate safely and reliably with uncertainty, partial observability, and incomplete information. I am broadly interested in the theoretical analysis, designing efficient algorithms and practical techniques for:

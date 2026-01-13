@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2025 (expected)
+* Ph.D in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2025
 * M.S. in Aerospace Engineering Sciences (Autonomous Systems), University of Colorado Boulder, 2023
 * B.S. in Mechanical Engineering, National University of Singapore, 2019
 
 Work experience
 ======
+
+* 2026-Present: Assistant Professor
+  * Virginia Tech, Aerospace and Ocean Engineering
+
 * 2024-2025: Visiting Student Researcher
   * NASA Jet Propulsion Laboratory
 
