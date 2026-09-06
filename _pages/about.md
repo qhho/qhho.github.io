@@ -11,9 +11,11 @@ redirect_from:
 
 # Welcome!
 
-I am an Assistant Professor in the **Aerospace and Ocean Engineering Department** at **Virginia Tech**. I received my M.s. and Ph.D. degrees in Autonomous Systems from the University of Colorado Boulder, where I was advised by Prof. Zachary Sunberg and Prof. Morteza Lahijanian.
+I am an Assistant Professor in the **Aerospace and Ocean Engineering Department** at **Virginia Tech**. I received my M.S. and Ph.D. degrees in Autonomous Systems from the University of Colorado Boulder, where I was advised by Prof. Zachary Sunberg and Prof. Morteza Lahijanian.
 
-My research goal is to enable autonomous systems to reliably accomplish complex tasks while providing assurances on safety, performance, and operational behavior. I develop theoretically grounded and computationally practical algorithms for decision making under uncertainty, partial observability, and imperfect information across the autonomy stack. My work draws on probabilistic planning, formal methods, and machine learning, including temporal logic, hybrid systems, MDPs, POMDPs, stochastic games, and reinforcement learning. My research finds applications in diverse areas including self-driving cars, uncrewed aerial vehicles, spacecraft and space robots, underwater vehicles, smart grids, and logistics.
+My research develops principled and computationally tractable techniques for autonomous decision-making under uncertainty. I am particularly interested in how autonomous agents should act when they have incomplete information about the state of the world, imperfect or uncertain models, and opportunities to acquire information or adapt their behavior over time.
+
+I focus on algorithm design supported by rigorous theoretical analysis, including formal guarantees, robustness and sensitivity analysis, together with empirical evaluation. My research draws on probabilistic planning, formal methods, control, and machine learning, including MDPs and POMDPs, temporal logic, hybrid systems, stochastic games, reinforcement learning, and adaptive decision-making. My work finds applications in self-driving cars, uncrewed aerial vehicles, spacecraft and space robots, underwater vehicles, smart grids, and logistics.
 
 <div class="vt-opportunities">
     <p>
